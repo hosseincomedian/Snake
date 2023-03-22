@@ -8,7 +8,7 @@ config.js : The position of the players at the beginning and their characteristi
 
 ## Usage & Run
 ### Step1:
-    clone project
+    git clone https://github.com/hosseincomedian/Snake.git
   
   
 ### Step2
